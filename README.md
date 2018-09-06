@@ -18,7 +18,7 @@
 
 ```
 
-## What you need for make work `ft_printf` ?
+## What you need for make `ft_printf` work ?
 
 * gcc or clang
 
@@ -28,7 +28,7 @@
 
 * [C library](https://en.wikipedia.org/wiki/C_standard_library)
 
-## How make work `ft_printf` ?
+## How make `ft_printf` work ?
 
 * Use `make` to compile 'libftprintf.a'.
 
