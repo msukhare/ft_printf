@@ -30,9 +30,9 @@
 
 ## How make `ft_printf` work ?
 
-* Use `make` to compile 'libftprintf.a'.
+* Use `make` to compile `libftprintf.a`.
 
-* Include libftprintf.a in your software when you compile.
+* Include `libftprintf.a` in your software when you compile.
 
 ## Rules of Makefile
 
